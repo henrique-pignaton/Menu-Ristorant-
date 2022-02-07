@@ -40,7 +40,7 @@
     background-color: white;
 }
 
-.esquerda {
+.direita {
     text-align: right;
     justify-content: right;
 
@@ -50,18 +50,4 @@
     text-align: end;
     justify-content: end;
     align-items: flex-end;
-}
-
-
-.teste {
-    text-align: right;
-    justify-content: right;
-    right: 360px;
-}
-
-.teste p {
-    text-align: right;
-    justify-content: right;
-    font-size: 20px;
-    right: 200px;
 }
