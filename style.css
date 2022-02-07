@@ -27,13 +27,15 @@
     margin-top: 0px;
     padding: 30px;
     border-radius: 36% 64% 54% 46% / 24% 30% 70% 76%;
-    background-color:wheat;
+    background-color: wheat;
 }
 
 .comida-central p {
     width: 600px;
+    justify-content: center;
 
 }
+
 .container {
     background-color: white;
 }
@@ -48,4 +50,18 @@
     text-align: end;
     justify-content: end;
     align-items: flex-end;
+}
+
+
+.teste {
+    text-align: right;
+    justify-content: right;
+    right: 360px;
+}
+
+.teste p {
+    text-align: right;
+    justify-content: right;
+    font-size: 20px;
+    right: 200px;
 }
