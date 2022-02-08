@@ -5,9 +5,10 @@
     justify-content: left;
     text-align: start;
     margin-top: 0px;
-    
+
 }
-.coffee{
+
+.coffee {
     font-weight: 550;
 }
 
@@ -56,7 +57,28 @@
     align-items: flex-end;
 }
 
-.valor{
+.valor {
     font-size: 15px;
     font-weight: 900;
+}
+
+#apresentacao {
+    padding-top: 25px;
+}
+.quemsou{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: center;
+    align-items: center;
+
+}
+
+img{
+	max-width:100%;
+	height:auto;
+}
+#biografia{
+    max-width:auto;
+	height:100%;
+
 }
