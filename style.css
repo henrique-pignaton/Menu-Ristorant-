@@ -24,7 +24,7 @@
 
 .titulos {
     font-family: 'Courier New', Courier, monospace;
-    margin-bottom: 0px;
+    margin-bottom: 10px;
     justify-content: left;
     text-align: start;
     margin-top: 0px;
@@ -95,3 +95,9 @@ img {
 
 }
 
+
+#sobremesa{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
