@@ -67,6 +67,10 @@
     align-items: center;
 
 }
+#biografia{
+    align-items: center;
+    justify-content: center;
+}
 
 .quemsou {
     text-align: center;
