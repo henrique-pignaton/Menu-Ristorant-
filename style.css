@@ -63,22 +63,24 @@
 }
 
 #apresentacao {
-    padding-top: 25px;
-}
-.quemsou{
-    text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+    /* padding-top: 25px; */
     justify-content: center;
     align-items: center;
 
 }
 
-img{
-	max-width:100%;
-	height:auto;
+.quemsou {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    
 }
-#biografia{
-    max-width:auto;
-	height:100%;
+
+img {
+    max-width: 100%;
+    height: auto;
 
 }
+
