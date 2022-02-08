@@ -55,3 +55,8 @@
     justify-content: end;
     align-items: flex-end;
 }
+
+.valor{
+    font-size: 15px;
+    font-weight: 900;
+}
