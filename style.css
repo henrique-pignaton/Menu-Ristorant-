@@ -15,13 +15,14 @@
     width: 450px;
 }
 
-/* .titulos {
+.titulos {
     font-family: 'Courier New', Courier, monospace;
     margin-bottom: 0px;
     justify-content: left;
     text-align: start;
     margin-top: 0px;
-} */
+    margin: 0;
+} 
 
 .comida-central {
     font-family: 'Courier New', Courier, monospace;
