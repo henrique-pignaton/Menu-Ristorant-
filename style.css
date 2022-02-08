@@ -1,5 +1,4 @@
 .titulo-menu {
-    padding: 10px;
     font-family: 'Courier New', Courier, monospace;
     margin-bottom: 0px;
     justify-content: left;
@@ -63,7 +62,7 @@
 }
 
 #apresentacao {
-    padding-top: 25px;
+    padding-top: 25px; 
     justify-content: center;
     align-items: center;
 
